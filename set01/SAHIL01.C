@@ -16,7 +16,7 @@ int main(){
   Complex c[n],result;
   input_n_complex(n,c);
   result = add_n_complex(n,c);
-  output(n,c,result);
+  output(n,c,result);                          
 }
 
 int get_n(){
